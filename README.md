@@ -47,25 +47,25 @@ INSTALLATION/SETUP
 LICENSES/TOOLS
 ------------
 
-* Unity 2017/2018 - Game Engine
+* Unity 2018 - _Game Engine_
   Visit: https://unity3d.com/
 
-* Autodesk Maya - Asset Creation (3d Modeling and UV Layout)
+* Autodesk Maya - _Asset Creation (3d Modeling and UV Layout)_
   Visit: https://www.autodesk.de/products/maya/overview
 
-* Adobe Photoshop - Texture & Sprite Creation
+* Adobe Photoshop - _Texture & Sprite Creation_
   Visit: https://www.adobe.com/de/products/photoshop.html
 
-* GitKraken - Version Control Client
+* GitKraken - _Version Control Client_
   Visit: https://www.gitkraken.com/
 
-* GitHub - Repositories
+* GitHub - _Repositories_
   Visit: https://github.com/
 
-* Visual Studio 2019 - Coding
+* Visual Studio 2019 - _Coding_
   Visit: https://visualstudio.microsoft.com/
 
-* Trello - Project Management (Kanban Style)
+* Trello - _Project Management (Kanban Style)_
   Visit: https://trello.com/
 
 
@@ -75,14 +75,14 @@ TROUBLESHOOTING
  * If the project does not run properly, you found a bug or want to suggest a feature, write to one of the following:
 
    - Jean-François Gagné:   jeffgagnenord@gmail.com
-   - Nikolas Klein:         nikolaskleinmail@t-online.de
+   - Nikolas Joshua Klein:  the@nikolasjklein.com
 
 FAQ
 ---
 
 Q: What is 'HEL'?
 
-A: 'HEL' is a DOOM93-like FPS with RPG progression element, resource management and inventory with maybe some Darksouls-like mechanics when you die-
+A: 'HEL' is a DOOM93-like FPS with RPG progression element, resource management and inventory with some Darksouls-like mechanics when you die.
 
 --------------------------
 
