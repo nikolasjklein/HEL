@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f7f2102927ba2ce4e8d2f49c10510a55
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Proxima Nova Alt
+  fontNames:
+  - Proxima Nova Alt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 669b09d4a92b78b45a8f22ca08cbf182, type: 3}
+  - {fileID: 12800000, guid: e006c5aab0b531e43b5c190b2bc36ca7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
