@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Portal_ActivatePoint : MonoBehaviour
+public class PortalActivateMoveThrough : MonoBehaviour
 {
     public GameObject PortalEntryPoint;
 
@@ -23,7 +23,14 @@ public class Portal_ActivatePoint : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            PortalEntryPoint.gameObject.SetActive(false);
+            StartCoroutine("Deactivate");
         }
+    }
+
+    IEnumerator Deactivate()
+    {
+        yield return new WaitForSeconds(0.1f);
+
+        PortalEntryPoint.gameObject.SetActive(false);
     }
 }
