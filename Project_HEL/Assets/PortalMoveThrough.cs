@@ -20,15 +20,9 @@ public class PortalMoveThrough : MonoBehaviour
             other.GetComponent<Player_Controller>().enabled = false;
             StartCoroutine("ActivateController");
 
-            if (other.GetComponent<Player_Controller>().enabled == false)
-                Debug.Log("YEET");
-
             other.transform.position = PortalExitPoint.transform.position;
             other.transform.rotation = PortalExitPoint.transform.rotation;
         }
-
-        Debug.Log (other.transform.position);
-        Debug.Log (PortalExitPoint.transform.position);
     }
 
     IEnumerator ActivateController()
@@ -36,6 +30,5 @@ public class PortalMoveThrough : MonoBehaviour
         yield return new WaitForSeconds(0.05f);
 
         Player.GetComponent<Player_Controller>().enabled = true;
-        Debug.Log("YEET_2");
     }
 }
